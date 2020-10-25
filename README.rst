@@ -1,6 +1,6 @@
 |logo|
 
-|icon1| |icon2| |icon3| |icon4|
+|icon1| |icon2| |icon3| |icon4| |icon5| |icon6| |icon7|
 
 SkyTemple Icons
 ===============
@@ -10,9 +10,12 @@ SkyTemple Icons
 .. |logo| image:: https://raw.githubusercontent.com/SkyTemple/skytemple/master/skytemple/data/icons/hicolor/256x256/apps/skytemple.png
 
 .. |icon1| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-actor-symbolic.png
-.. |icon2| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-dungeon-symbolic.png
-.. |icon3| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-bgp-symbolic.png
-.. |icon4| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-export-symbolic.png
+.. |icon2| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-dungeon-floor-symbolic.png
+.. |icon3| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-dungeon-symbolic.png
+.. |icon4| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-event-symbolic.png
+.. |icon5| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-graphics-symbolic.png
+.. |icon6| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-ground-symbolic.png
+.. |icon7| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/master/example/skytemple-e-monster-base-symbolic.png
 
 .. |build| image:: https://jenkins.riptide.parakoopa.de/buildStatus/icon?job=skytemple-icons%2Fmaster
     :target: https://jenkins.riptide.parakoopa.de/blue/organizations/jenkins/skytemple-icons/activity

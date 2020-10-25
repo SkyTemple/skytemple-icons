@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 from glob import glob
 
@@ -33,6 +34,7 @@ for file_name in glob(os.path.join('.', 'source', '*.png')):
                 raise ValueError(f"Unknown color at {x},{y}.")
 
     for dirname, size in FILE_SIZES.items():
+        os.makedirs(os.path.join(OUT_DIR_1, dirname, OUT_DIR_2), exist_ok=True)
         out_filename = os.path.join(
             OUT_DIR_1, dirname, OUT_DIR_2, os.path.basename(file_name).replace('.png', '.symbolic.png')
         )
