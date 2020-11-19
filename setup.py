@@ -22,7 +22,7 @@ def get_resources():
 
 setup(
     name='skytemple-icons',
-    version='0.1.0a1',
+    version='0.1.0',
     packages=find_packages(),
     package_data={'skytemple_icons': get_resources()},
     description='Icons for SkyTemple',
