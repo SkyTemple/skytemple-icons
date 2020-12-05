@@ -1,3 +1,4 @@
+__version__ = '0.1.0'
 import os
 
 from setuptools import setup, find_packages
@@ -22,7 +23,7 @@ def get_resources():
 
 setup(
     name='skytemple-icons',
-    version='0.1.0',
+    version=__version__,
     packages=find_packages(),
     package_data={'skytemple_icons': get_resources()},
     description='Icons for SkyTemple',
