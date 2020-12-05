@@ -16,8 +16,8 @@ SkyTemple Icons
 .. |icon6| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/main/example/skytemple-e-ground-symbolic.png
 .. |icon7| image:: https://raw.githubusercontent.com/SkyTemple/skytemple-icons/main/example/skytemple-e-monster-base-symbolic.png
 
-.. |build| image:: https://jenkins.riptide.parakoopa.de/buildStatus/icon?job=skytemple-icons%2Fmain
-    :target: https://jenkins.riptide.parakoopa.de/blue/organizations/jenkins/skytemple-icons/activity
+.. |build| image:: https://img.shields.io/github/workflow/status/SkyTemple/skytemple-icons/Build,%20test%20and%20publish
+    :target: https://pypi.org/project/skytemple-icons/
     :alt: Build Status
 
 .. |pypi-version| image:: https://img.shields.io/pypi/v/skytemple-icons
