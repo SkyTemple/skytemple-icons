@@ -37,7 +37,10 @@ SkyTemple Icons
     :alt: Ko-Fi
 
 .. _Aviivix: https://twitter.com/Aviivix
+.. _Charburst: https://twitter.com/Charburst_
 
+Pixelated Icons
+---------------
 Pixelated symbolic icons for SkyTemple and the SkyTemple Script Engine Debugger.
 
 These great icons were created by Aviivix_!
@@ -45,6 +48,10 @@ These great icons were created by Aviivix_!
 The ``source`` directory contains the original icons (designed for background color #383c4a).
 ``skytemple_icons`` contains the GTK+ 3 icon resource (symbolic PNGs, taking theme colors).
 ``example`` contains some scaled icons for this README.
+
+Illustrations
+-------------
+Additionally the repository contains icons illustrated by Charburst_! These are also in ``skytemple_icons``.
 
 License
 -------
@@ -57,7 +64,7 @@ Choose whatever license is more convenient for you.
 
 Building
 --------
-To convert the icons in ``source`` into the format GTK needs (for auto-converting the colors
+To convert the pixelated icons in ``source`` into the format GTK needs (for auto-converting the colors
 based on theme color) and also all the different sizes, run ``./convert_icons.py``
 
 |kofi|
